@@ -6,7 +6,7 @@ layout: default
 
 ## Qui sommes nous ?
 
-L'Association des Bidouilleurs Libristes (ABL) est une association loi 1901 qui a pour objet l'hébergement de projets libres, la promotion des communs et la promotion du libre (au sens licence libre).
+L'Association des Bidouilleurs et Bidouilleuses Libristes (ABL) est une association loi 1901 qui a pour objet l'hébergement de projets libres, la promotion des communs et la promotion du libre (au sens licence libre).
 
 Nous hébergeons des projets de tous types comme la création de jeux vidéos tels que [Spaceship](https://github.com/yoann-dufresne/Spaceship_node) ou [Artefact](https://bidouilleurslibristes.github.io/Artefact/).
 
