@@ -18,7 +18,7 @@ Sous l'impulsion de notre association, le projet "Espace Bidouille" s'est concr�
 
 <img src="imgs/hackerspace.jpg" height="300">
 
-Notre association y tient plusieurs permanences par semaine : une permanence fixe tous les samedis entre 11h00 et 18h00 ainsi que des permanences variables durant la semaine selon la disponibilité et l'envie des membres. Vous pouvez être tenus informés des permanences via la [mailling list](https://listes.univ-lille.fr/wws/subscribe/espacebidouille) de l'Espace Bidouille ou sa page [Facebook](https://www.facebook.com/EspaceBidouille) et [Twitter](https://twitter.com/EspaceBidouille).
+Notre association y tient plusieurs permanences par semaine : une permanence fixe tous les samedis entre 14h00 et 18h00 ainsi que des permanences variables durant la semaine selon la disponibilité et l'envie des membres. Vous pouvez être tenus informés des permanences via la [mailling list](https://listes.univ-lille.fr/wws/subscribe/espacebidouille) de l'Espace Bidouille ou sa page [Facebook](https://www.facebook.com/EspaceBidouille) et [Twitter](https://twitter.com/EspaceBidouille).
 
 ## Nous contacter / Nous rencontrer
 
