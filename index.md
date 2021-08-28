@@ -16,7 +16,7 @@ L'association se veut porteuse de valeurs de partage et d'égalité et ce peu im
 
 Sous l'impulsion de notre association, le projet "Espace Bidouille" s'est concrétisé sur le campus Cité Scientifique de l'Université Lille au sein de la Maison Des Etudiants. Il s'agit d'un espace partagé entre toutes les associations signataires de la charte des lieux. Le lieu incorpore un espace de travail avec des plans de travail hauts et bas ainsi que quelques outils. Pour le moment le lieu est équipé en petit matériel de bricolage, possède une imprimante 3D et du matériel d'électronique basique (arduinos, raspberry pi et capteurs).
 
-<img src="imgs/hackerspace.jpg" height="300">
+<img src="imgs/EB2021.jpg" height="300">
 
 Notre association y tient plusieurs permanences par semaine : une permanence fixe tous les samedis entre 14h00 et 18h00 ainsi que des permanences variables durant la semaine selon la disponibilité et l'envie des membres. Vous pouvez être tenus informés des permanences via la [mailling list](https://listes.univ-lille.fr/wws/subscribe/espacebidouille) de l'Espace Bidouille ou sa page [Facebook](https://www.facebook.com/EspaceBidouille) et [Twitter](https://twitter.com/EspaceBidouille).
 
