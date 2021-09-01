@@ -14,6 +14,10 @@ L'association se veut porteuse de valeurs de partage et d'égalité et ce peu im
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uSyYBUxzVn0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+    <iframe width="500" height="320" src="https://www.youtube.com/embed/uSyYBUxzVn0">
+    </iframe>
+
 ## L'Espace Bidouille
 
 Sous l'impulsion de notre association, le projet "Espace Bidouille" s'est concrétisé sur le campus Cité Scientifique de l'Université Lille au sein de la Maison Des Etudiants. Il s'agit d'un espace partagé entre toutes les associations signataires de la charte des lieux. Le lieu incorpore un espace de travail avec des plans de travail hauts et bas ainsi que quelques outils. Pour le moment le lieu est équipé en petit matériel de bricolage, possède une imprimante 3D et du matériel d'électronique basique (arduinos, raspberry pi et capteurs).
